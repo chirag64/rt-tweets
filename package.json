@@ -1,0 +1,19 @@
+{
+  "name": "rt-tweets",
+  "version": "1.0.0",
+  "description": "RTs tweets based on filter criteria",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twitter",
+    "RT",
+    "retweet"
+  ],
+  "author": "Chirag Bhatia <chiragbhatia2006@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
